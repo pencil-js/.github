@@ -11,8 +11,8 @@ Remember that we have a limited work bandwidth and are dealing with issue as fas
 
 
 #### Information <!-- A little more about you -->
- - Your current navigator: <!-- ex: Chrome v65 -->
- - The package and version you used: <!-- @pencil.js/polygon v0.8.3 -->
+ - Your current navigator: <!-- ex: Chrome v91 -->
+ - The package and version you used: <!-- pencil.js v2.2.0 -->
 
 #### Description <!-- Precise description of your issue/feature -->
 

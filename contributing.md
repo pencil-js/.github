@@ -36,11 +36,7 @@ Then you can clone this copy to your machine.
     cd pencil.js
     npm install
 
-We use [lerna](https://lernajs.io/) to manage the modular aspect of the project. So, you have to run the `init` script.
-
-    npm run init
-
-Then, you'll need to create a new branch to host your modifications. Use a relevant name for your branch (ex: new_heart_component, refacto_all_tests ...).
+Finally, you'll need to create a new branch to host your modifications. Use a relevant name for your branch (ex: new_heart_component, refacto_all_tests ...).
 
     git checkout -b <YOUR_BRANCH_NAME>
 
